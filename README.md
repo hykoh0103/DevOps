@@ -4,3 +4,4 @@
 ## 해야할 일
  - Git Commit
  - Git Push
+ - Jenkins 
